@@ -1,3 +1,13 @@
+# Custom
+*output/
+*mlruns/
+*data/
+*mlartifacts/
+.parquet
+.db
+.pkl
+mlflow*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
