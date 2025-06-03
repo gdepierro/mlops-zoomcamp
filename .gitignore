@@ -3,10 +3,12 @@
 *mlruns/
 *data/
 *mlartifacts/
+*models/
 .parquet
 .db
 .pkl
 mlflow*
+run_id.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
