@@ -135,7 +135,6 @@ def run(year, month, model_type):
     print(f"MLflow run_id: {run_id}")
     return run_id
 
-
 if __name__ == "__main__":
     import argparse
 
