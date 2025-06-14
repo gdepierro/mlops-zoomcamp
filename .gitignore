@@ -7,6 +7,7 @@
 .parquet
 .db
 .pkl
+.bin
 mlflow*
 run_id.txt
 
